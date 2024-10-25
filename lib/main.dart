@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'gender.dart';
 import 'age.dart';
 import 'uni.dart';
-import 'weather.dart'; // me canse de joder con pricings para apis de clima, vaya estupidez
 import 'wordpress.dart';
 import 'about.dart';
 

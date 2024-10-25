@@ -21,15 +21,15 @@ class AboutMe extends StatelessWidget {
                 padding: EdgeInsets.symmetric(vertical: 16.0),
                 child: CircleAvatar(
                   radius: 100,
-                  backgroundImage: AssetImage('assets/Patata.jpg'),
+                  backgroundImage: AssetImage('assets/jordani.jpg'),
                 ),
               ),
-              Text('Patata',
+              Text('Jordani Perez Castro',
                   style: TextStyle(
                     fontSize: 18,
                   )),
               SizedBox(height: 8),
-              Text('Patata@gmail.com',
+              Text('magnothrilex@gmail.com',
                   style: TextStyle(
                     fontSize: 18,
                   )),

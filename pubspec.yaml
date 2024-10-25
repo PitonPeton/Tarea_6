@@ -37,6 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.8
   http: ^1.2.2
   url_launcher: ^6.3.1
+  flutter_launcher_icons: "^0.14.1"
+
+flutter_icons:
+  image_path: "assets/jordani.jpg"
+  android: true
 
 dev_dependencies:
   flutter_test:
@@ -49,6 +54,7 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^4.0.0
 
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -60,7 +66,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/Patata.jpg
+    - assets/jordani.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
